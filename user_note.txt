@@ -1,0 +1,1 @@
+cd "c:\Users\satya\OneDrive\Desktop\coding\" ; if ($?) { g++ project.cpp -o project } ; if ($?) { .\project }
